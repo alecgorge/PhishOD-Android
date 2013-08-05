@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res" >
+            <file
+                name="ic_launcher"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="scrollbar_handle_holo_dark"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\drawable-hdpi\scrollbar_handle_holo_dark.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="scrollbar_handle_holo_light"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\drawable-hdpi\scrollbar_handle_holo_light.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_main"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="fragment_collection_object"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\layout\fragment_collection_object.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="main"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\menu\main.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="app_name" >Phish On Demand
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+            </file>
+            <file
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Black" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\values-sw720dp-land\dimens.xml"
+                qualifiers="sw720dp-land" >
+                <dimen name="activity_horizontal_margin" >128dp
+                </dimen>
+            </file>
+            <file
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\values-v11\styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo" >
+
+                    <!-- API 11 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\values-v14\styles.xml"
+                qualifiers="v14" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo" >
+
+                    <!-- API 14 theme customizations can go here. -->
+                </style>
+            </file>
+            <file
+                name="tabs_fragment"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\layout\tabs_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="list_layout"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\layout\list_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="sectioned_list_layout"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\layout\sectioned_list_layout.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="ic_stat_playing"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\drawable-mdpi\ic_stat_playing.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_stat_playing"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\drawable-mdpi-v9\ic_stat_playing.png"
+                qualifiers="mdpi-v9"
+                type="drawable" />
+            <file
+                name="ic_stat_playing"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\drawable-mdpi-v11\ic_stat_playing.png"
+                qualifiers="mdpi-v11"
+                type="drawable" />
+            <file
+                name="ic_stat_playing"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\drawable-hdpi-v11\ic_stat_playing.png"
+                qualifiers="hdpi-v11"
+                type="drawable" />
+            <file
+                name="ic_stat_playing"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\drawable-xhdpi\ic_stat_playing.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_stat_playing"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\drawable-hdpi-v9\ic_stat_playing.png"
+                qualifiers="hdpi-v9"
+                type="drawable" />
+            <file
+                name="ic_stat_playing"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\drawable-hdpi\ic_stat_playing.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_stat_playing"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\drawable-xhdpi-v9\ic_stat_playing.png"
+                qualifiers="xhdpi-v9"
+                type="drawable" />
+            <file
+                name="ic_stat_playing"
+                path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\main\res\drawable-xhdpi-v11\ic_stat_playing.png"
+                qualifiers="xhdpi-v11"
+                type="drawable" />
+        </source>
+        <source path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\res\rs\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\src\debug\res" />
+    </dataSet>
+
+</merger>

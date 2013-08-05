@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/C:/Users/Alec/Dropbox/Projects/objc/PhishOD%20Android/PhishOD/src/main/res/values-v14/styles.xml -->
+    <style name="AppBaseTheme" parent="android:Theme.Holo">
+        <!-- API 14 theme customizations can go here. -->
+    </style>
+
+</resources>

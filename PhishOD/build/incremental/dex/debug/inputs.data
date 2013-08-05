@@ -1,0 +1,56 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375686724109 3327 8d2f49032d97a7bc9646a68a026452e4ddc4b0ef C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\ShowActivity$1.class
+1375651109486 1478 e8dad50a533ea9debfa0d4d2b48d4d885535bdfe C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\YearActivity$2.class
+1375683772977 580 a277301f70dda0890e5572a6890da5f1fff9c65d C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\R$drawable.class
+1375647775399 1387 f927ec5db5dab5b413a991cd266b8f6e127429ff C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\YearListFragment$2.class
+1375647775292 3649 a207339e823a3ea82a5295845dea3dabe046e068 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\SongListFragment.class
+1375651109492 2780 a8ccc2da600745f766bcaf804f366c38af67a876 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\YearActivity$3.class
+1375683772745 1704 f05f39213e1b13e161b76bb574ea2e77039022aa C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\AudioFocusHelper.class
+1375651109483 1827 0f1bc3f470d1b983ea40bac3c68f471467a682c3 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\YearActivity$1.class
+1375639144487 558 2bd8cd990b4179c8fca012f653d2455d46880b88 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\MainActivity.class
+1375683772829 372 cd49ca1324c418940ec0ac15f75003d58a2f9f2a C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\PrepareMusicRetrieverTask$MusicRetrieverPreparedListener.class
+1375683772981 603 53559a19e80a993144f2ea7a255c52a6775d84d1 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\R$layout.class
+1375685236908 2105 c90d0a68472df48cbf0d4bb1d7e2aec0dc0c431b C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\MusicIntentReceiver.class
+1375630871096 373 00089360e8786caa4b24a27add96da8d7e97546a C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\R$attr.class
+1375686607935 2453 02bd5c07dd223ea412e7cd2aee4d0a164144eb54 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\PhishTracksPlayer.class
+1375683772983 421 8afe99e96eec77f387e9facdef8c5cb0ff2227d8 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\R$menu.class
+1375683772856 5850 1f79842b63721cf8b36633b25aa2afe9a66e17c2 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\RemoteControlClientCompat.class
+1375686724113 1566 874bda5e546133e68fd12fd8935cf5297904f013 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\ShowActivity$2.class
+1375630871074 251 20967a96bcbec3a1bb8f9e474956e0b9508af5ec C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\applidium\headerlistview\HeaderListView$1.class
+1375647775285 1387 cf49e408066b426577a55d9db844b61b062dae38 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\SongListFragment$1.class
+1375683772832 1798 1308f7854d3f237a3d9c8e6fae84166ae4ea7fcf C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\PrepareMusicRetrieverTask.class
+1375683772979 591 ed26b5f8754b9b91d36ac09b5e6f00650c184041 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\R$id.class
+1375683772757 2720 671fa6d019850990018f29d58c32a39fda4158ba C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\MediaButtonHelper.class
+1375686724120 4251 c70b63b1a7c37c155b08e7756be985130110b8de C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\ShowActivity$3.class
+1375647775396 1844 dc45ff609ee88df83bfa4357b0f6f1437e142f2c C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\YearListFragment$1.class
+1375686607968 3863 944b2ccd3972db8e578c9da28c090ed054fffb3f C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\phishtracks\PhishTracksShow.class
+1375683772848 4018 ec6e3d70bf2f0b6e13541e9c3df8ded9588ba595 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\RemoteControlClientCompat$MetadataEditorCompat.class
+1375686608340 1356 00287c7059b9e93a2ed60ad0543a59ca5c652161 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\MusicService$AudioFocus.class
+1375686608337 1302 ca415c7a931ab967ad3962766f3ef119a5deedd3 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\MusicService$PauseReason.class
+1375686724125 3927 e43e9713ca65c44dfd99bbbec4839f95b503d712 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\ShowActivity.class
+1375680205781 348 d1b714be87894dca7805b3e95dfd4aa0a81f0c6d C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\SongInstancesActivity.class
+1375683772774 1556 0450a124ccecfeb0a43437a1f8d3d94a058c6991 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\MusicRetriever$Item.class
+1375683772849 300 d6d10f8a49550393c5b0713124f0d2624ad9742d C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\RemoteControlClientCompat$1.class
+1375686608335 1420 ed835af0edcaa6ac5ea1fa947f29cf21c63d4ebe C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\MusicService$State.class
+1375683772988 787 3babd8f942729188906d6f3ea366525718a924f7 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\R.class
+1375630871097 494 63851ccffaacb34f5a1ae21dc5bfcd29fb2ffe4b C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\R$dimen.class
+1375630871073 1011 7803057fdc494d8169aef0b06fa498308f60e170 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\applidium\headerlistview\HeaderListView$InternalListView.class
+1369432936000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d C:\Program Files (x86)\Android\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\13.0.0\support-v4-13.0.0.jar
+1375651377536 7678 8550e36a5bf1fd8a7f27cc4b72d88d7f7a2c1684 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\applidium\headerlistview\HeaderListView$HeaderListViewOnScrollListener.class
+1375683772548 4846 5af3ee051a771cee64d3990fd7f441177b72688f C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\applidium\headerlistview\HeaderListView.class
+1375683772986 464 e39fc0a440c68999e7a315dc9247267289bfaa4e C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\R$style.class
+1375686608350 14926 e4dc2d29cfca48a238b9e385599ffe4bade56fd4 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\MusicService.class
+1375683772984 505 f492278d9e48941ca51e8358dd6e38df05c99394 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\R$string.class
+1375683772778 3617 1fd00cbdb7625a3dd5824f38d742a8aa53868e18 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\MusicRetriever.class
+1375683772747 215 7944eb05ec342f327415e8e2a9465fd470dd448c C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\MusicFocusable.class
+1375651109497 4015 4b1b73eab0c23aa4c6be5919f51da1770eab2cb0 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\YearActivity.class
+1375650832387 4204 79cb42b24cc7d1cd8cf7b120b19a001646820fdb C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\TabsFragment.class
+1375686607958 5472 b679befb3977a20333e4c7c89b6224e25d1d69c5 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\phishtracks\PhishTracksSong.class
+1375630871105 367 7fd21c7423c4fbb09df72a5e048017dcea08878e C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\BuildConfig.class
+1375647775404 4141 6ba3a82fa551e7549542267b0cc0de38c7cad8d1 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\YearListFragment.class
+1375686724282 5934 d479d0b943026e2eb933df75b4ed4378823523bf C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\phishtracks\PhishTracksAPI.class
+1375630871093 4319 3d67249b1d32f74d1034b3f170c8e0e0e0dc3f04 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\applidium\headerlistview\SectionAdapter.class
+1375647775381 1963 e6b9b950d9a45ae0b2948c994015de8ed2fe94fc C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\phishtracks\PhishTracksSet.class
+1375683772862 2701 eb33d84d9e6c3a0b4fec6b4d83e32ee56dcfdb30 C:\Users\Alec\Dropbox\Projects\objc\PhishOD Android\PhishOD\build\classes\debug\com\alecgorge\android\phishod\player\RemoteControlHelper.class
